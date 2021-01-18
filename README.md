@@ -6,10 +6,6 @@ A Web App that helps to predict the price of the Airplane Flight Price based on 
 Random Forest model used with hyperparameter tuning gave the best results for the predictions.
 with 
 
-MAE:
-MSE:
-RMSE:
-
 The dataset has been taken from kaggle.
 https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/
 
