@@ -9,9 +9,9 @@ https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/
 My app Looks like this on the front page which has been made using flask framework, 
 
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/Flight-Fare-Web-App-with-PricePrediction/blob/main/GU6O9huC8a.png" width="350" title="hover text">
+  <img src="https://github.com/anshulsingh8101/Flight-Fare-Web-App-with-PricePrediction/blob/main/GU6O9huC8a.png" width="800" title="hover text">
   <br></br>
-  <img src="https://github.com/anshulsingh8101/Flight-Fare-Web-App-with-PricePrediction/blob/main/QVI6Ey6QYw.png" width="350" alt="accessibility text">
+  <img src="https://github.com/anshulsingh8101/Flight-Fare-Web-App-with-PricePrediction/blob/main/QVI6Ey6QYw.png" width="800" alt="accessibility text">
 </p>
 
 
